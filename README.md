@@ -2,7 +2,7 @@
 
 ![Aperçu du projet](public/img.PNG)
 
-Ce projet **React** permet de créer, gérer et imprimer des étiquettes produits au format PDF. Il est idéal pour la gestion de stocks, les rayonnages ou l'événementiel.
+Ce projet React a été développé dans le cadre d’un besoin en entreprise afin de faciliter la création, la gestion et l’impression d’étiquettes de production au format PDF. Il vise à optimiser le suivi des stocks et l'organisation des rayonnages, tout en simplifiant les processus d’étiquetage.
 
 ## ✨ Fonctionnalités
 
